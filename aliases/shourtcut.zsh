@@ -1,1 +1,8 @@
 alias ws='cd $WS'
+alias doc='cd $DOCS'
+alias next='cd $NEXT'
+alias note='cd $NOTES'
+alias comp='cd $DONE'
+alias config='cd $CONFIG'
+alias nvimc='cd $CONFIG/nvim'
+alias scripts='cd $SCRIPTS'
