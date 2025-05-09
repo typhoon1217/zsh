@@ -1,0 +1,5 @@
+alias untar='tar -xvf'
+alias tgz='tar -xzvf'
+alias tbz2='tar -xjvf'
+alias zipun='unzip'
+alias zip='zip -r'
