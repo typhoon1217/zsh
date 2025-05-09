@@ -9,6 +9,7 @@ export NEXT="$HOME/Nextcloud/Nextcloud default"
 export NOTES="$NEXT/Notes"
 export CONFIG="$HOME/.config"
 export SCRIPTS="$CONFIG/hypr/UserScripts"
+export HYPRC="$CONFIG/hypr"
 
 # Input method
 export GTK_IM_MODULE=fcitx
