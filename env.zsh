@@ -8,7 +8,7 @@ export DONE="$DOCS/done"
 export NEXT="$HOME/Nextcloud/Nextcloud default"
 export NOTES="$NEXT/Notes"
 export CONFIG="$HOME/.config"
-export SCRIPTS="$CONFIG/hypr/UserScripts"
+export SCRIPTS="$HOME/MyScripts/ZshScripts/"
 export HYPRC="$CONFIG/hypr"
 
 # Input method
